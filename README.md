@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=300&section=header&text=hyunjeen's%20GitHub&fontSize=50&animation=fadeIn)                
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tselfsk7b6xfyl7jxy6w3lbh3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ## Hi there 👋
 
 - My name is **Hyunjin An**
