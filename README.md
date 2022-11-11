@@ -1,6 +1,6 @@
 <div align='center'>
     <img align="left" width="300" src="https://i.postimg.cc/jSbsYbgK/octocat-1607474030530.png">    
-    <div align='left'>꧁ hi! ꧂<br><br>
+    <div align='left'>꧁ 안녕하세요 ^____^ ꧂<br><br>
   🔥　안녕하세요 저는 깃헙에서 열심히 커밋을 하려고 노력하는 개발자가 되고싶습니다!!!! <br> 
   🌁　꿈꾸는 직군은 프론트엔드 개발자 입니다 추가로 백엔드 관련 해서도 배울 의향은 차고 넘칩니다!! <br>
   🏓　제 취미 생활은 영화감상, 인터넷 구글링(?), 잡다한지식 유튜브보기, ....등등 <br>
