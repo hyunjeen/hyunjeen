@@ -1,33 +1,38 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=FFC448&height=200&section=header&text=Hyunjeen%20GitHub&fontSize=90)
-## Introduce 👋🏻
-Welcome to my page!<br/>
-I'm 29 years old 🇰🇷
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=300&section=header&text=hyunjeen's%20GitHub&fontSize=50&animation=fadeIn)                
 
-Front-end Dev 😀hyunjeen😀
+## Hi there 👋
 
-## Stack 
-<p>
-<img
-  src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=9B9B9B"
-/>
-<img
-  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"
-/>
-</p>
+- My name is **Hyunjin An**
+- I'm **29 years old**(2022)
+- I'm **Front-End developer** (using Html + Css + JavaScript + react) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjeen&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjeen&layout=compact"><br><br>
 
-## Project
+----
+### Usable Programming Language 💬
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+----
+
+
+### Used Framework ⚡
+
+----
+
+### Used IDE 🌱
+
+----
+
+### Server&Container 📫
+
+----
+
+### SQL 🔭
+
+----
+
+### Communicate with... 😄
+
+
+----
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjeen&&show_icons=true&theme=default)
