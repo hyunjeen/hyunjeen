@@ -6,8 +6,9 @@
   🏓　제 취미 생활은 영화감상, 인터넷 구글링(?), 잡다한지식 유튜브보기, ....등등 <br>
   👦　제 나이는 현재 29살 입니다 !!!!!!!!<br>
   📖　웹프론트 관련해서 서적과 유튜브 공식문서를 참고해 공부중입니다  <br>
+        <div align='center'>
   　<h1>🎧 오늘의 뮤직</h1> <br>
-    <img src='https://spotify-github-profile.vercel.app/api/view?uid=31tselfsk7b6xfyl7jxy6w3lbh3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true' alt=''spotify/>
+            <img src='https://spotify-github-profile.vercel.app/api/view?uid=31tselfsk7b6xfyl7jxy6w3lbh3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true' alt=''spotify/></div>
     </div>
     <br>
 </div><br>
