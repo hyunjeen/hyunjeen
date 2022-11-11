@@ -1,18 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=300&section=header&text=hyunjeen's%20GitHub&fontSize=50&animation=fadeIn)     
-
-<center>
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tselfsk7b6xfyl7jxy6w3lbh3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-center>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tselfsk7b6xfyl7jxy6w3lbh3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-## Hi there 👋
-
-- My name is **Hyunjin An**
-- I'm **29 years old**(2022)
-- I'm **Front-End developer** (using Html + Css + JavaScript + react) 
-
-
+<div align='center'>
+    <img align="left" width="200" src="https://i.postimg.cc/jSbsYbgK/octocat-1607474030530.png">    
+    <div align='left'>꧁ hi! ꧂<br><br>
+  🔥　안녕하세요 저는 깃헙에서 열심히 커밋을 하려고 노력하는 개발자가 되고싶습니다!!!! <br> 
+  🌁　꿈꾸는 직군은 프론트엔드 개발자 입니다 추가로 백엔드 관련 해서도 배울 의향은 차고 넘칩니다!! <br>
+  🏓　제 취미 생활은 영화감상, 인터넷 구글링(?), 잡다한지식 유튜브보기, ....등등 <br>
+  👦　제 나이는 현재 29살 입니다 !!!!!!!!<br>
+  📖　학습중인 기술 리액트, 자바스크립트, nextjs 등등 웹프론트 관련해서 서적과 유튜브 공식문서를 참고해 공부중입니다  <br>
+  🎧　오늘의 뮤직 : <br><br>
+    <img src='https://spotify-github-profile.vercel.app/api/view?uid=31tselfsk7b6xfyl7jxy6w3lbh3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true' alt=''spotify/>
+    </div>
+    
+<img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@hyunjeen]() 💭
+</div>
+    
 ----
 ### Stack 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
