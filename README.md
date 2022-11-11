@@ -9,9 +9,9 @@
   🎧　오늘의 뮤직 : <br><br>
     <img src='https://spotify-github-profile.vercel.app/api/view?uid=31tselfsk7b6xfyl7jxy6w3lbh3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true' alt=''spotify/>
     </div>
-    
+    <br>
 <img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@hyunjeen]() 💭
-</div><br><br><br><br><br>
+</div><br><br><br><br>
     
 ----
 ### Stack 
