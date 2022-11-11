@@ -28,6 +28,7 @@
 <br>
 <br>
 <h2 font-weight="bold">Stack</h2>
+<br>
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
