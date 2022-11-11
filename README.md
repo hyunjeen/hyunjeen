@@ -11,22 +11,15 @@
             <img src='https://spotify-github-profile.vercel.app/api/view?uid=31tselfsk7b6xfyl7jxy6w3lbh3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true' alt=''spotify/></div>
     </div>
     <br>
-</div><br>
+</div>
+<hr>
 <p align='center'>
 
   <a href="mailto:dev.hyunjeen@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hyunjeen.hyunjeen" />
-<img align="right" src="https://img.shields.io/github/followers/hyunjeen?label=Follow&style=social" />
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=hyunjeen&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjeen&count_private=true&langs_count=10&theme=tokyonight&layout=compact&hide=html,css" alt="hyunjeen :: Top Langs" />
-<img height="150px" />
-<br>
-<br>
+<hr>
 <h2 font-weight="bold">Stack</h2>
 <br>
 <table>
@@ -41,3 +34,13 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="200"></td>
    </tr>
 </table>
+
+<br>
+
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hyunjeen.hyunjeen" />
+<img align="right" src="https://img.shields.io/github/followers/hyunjeen?label=Follow&style=social" />
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=hyunjeen&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjeen&count_private=true&langs_count=10&theme=tokyonight&layout=compact&hide=html,css" alt="hyunjeen :: Top Langs" />
+<img height="150px" />
