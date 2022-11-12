@@ -1,11 +1,11 @@
 <div align='center'>
     <img align="left" width="300" src="https://i.postimg.cc/jSbsYbgK/octocat-1607474030530.png">    
     <div align='left'>꧁ 안녕하세요 ^____^ ꧂<br><br>
-  🔥　안녕하세요 저는 깃헙에서 열심히 커밋을 하려고 노력하는 개발자가 되고싶습니다!!!! <br> 
-  🌁　꿈꾸는 직군은 프론트엔드 개발자 입니다 추가로 백엔드 관련 해서도 배울 의향은 차고 넘칩니다!! <br>
+  🔥　저는 깃헙에 열심히 커밋 하고 매사에 최선을 다하는 개발자가 되고싶습니다!!!! <br> 
+  🌁　꿈꾸는 직군은 *프론트엔드 개발자* 입니다 추가로 백엔드 관련 해서도 배우고자 합니다!! <br>
   🏓　제 취미 생활은 영화감상, 인터넷 구글링(?), 잡다한지식 유튜브보기, ....등등 <br>
   👦　제 나이는 현재 29살 입니다 !!!!!!!!<br>
-  📖　웹프론트 관련해서 서적과 유튜브 공식문서를 참고해 공부중입니다  <br>
+  📖　웹 프론트 관련해서 서적과 유튜브 공식문서를 참고해 공부중입니다  <br>
         <div align='center'>
   　<h1>🎧 오늘의 뮤직</h1> <br>
             <img src='https://spotify-github-profile.vercel.app/api/view?uid=31tselfsk7b6xfyl7jxy6w3lbh3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true' alt=''spotify/></div>
